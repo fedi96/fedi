@@ -4,7 +4,7 @@
     text-decoration: none;
 }
 .light-edition .card.card-profile{background:url(/static/img/bg.jpeg) 50% no-repeat;}
-.light-edition .description, .card-description, .footer-big p {
+.light-edition .description, .light-edition .card-description, .light-edition .footer-big p {
     color: #333 !important;
 }
 .light-edition .bar .bar-item {
