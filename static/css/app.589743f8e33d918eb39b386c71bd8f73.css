@@ -3,7 +3,7 @@
     color: #333 !important;
     text-decoration: none;
 }
-.light-edition .card.card-profile{background:url(/static/img/bg.jpeg) 50% no-repeat;}
+.light-edition .card.card-profile{background:url(/static/img/bg.jpeg) 50% no-repeat;background-size: cover;}
 .light-edition .description, .light-edition .card-description, .light-edition .footer-big p {
     color: #333 !important;
 }
