@@ -1,2 +1,30 @@
 .card-avatar{margin:10px auto 0!important}.card.card-profile{background:url(/static/img/wall.270cbe8.jpeg) 50% no-repeat;background-size:cover;box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12)}.fancy-box-wrapper .box-wrapper{overflow:visible!important;padding-bottom:0!important}.card-profile .card-avatar{max-width:145px;max-height:145px;border:2px solid #020f1e}i.fab{font-size:24px}.ali{padding:.3rem!important}.col-md-6.m-left{padding-left:20%}i.fas{font-size:20px;color:#9d7e33}.h5 i{margin-right:.96rem;width:6%;text-align:center}a.ali:before{position:absolute;content:"";width:calc(100% - 57px);display:table;height:1px;border-radius:3px;bottom:12px;right:5px;transition:all .3s linear;transform:scaleX(0);background:#e5b12f!important;opacity:0}a.ali.router-link-exact-active.router-link-active:before{transform:scaleX(1);opacity:1;color:#f3c26b!important;background-color:transparent;text-decoration:none}a.ali.router-link-exact-active.router-link-active{opacity:1}i.fab[data-v-468f77ba],i.fas[data-v-468f77ba]{font-size:24px;color:#9d7e33}.bttn-float[data-v-df3e33cc]{padding:.5rem 3rem}img.card-img-top[data-v-df3e33cc]{max-height:400px}.back-to-top-fade-enter-active,.back-to-top-fade-leave-active{transition:opacity .7s}.back-to-top-fade-enter,.back-to-top-fade-leave-to{opacity:0}.vue-back-to-top{cursor:pointer;position:fixed;z-index:1000}.vue-back-to-top .default{background-color:#f5c85c;border-radius:3px;color:#fff;height:30px;line-height:30px;text-align:center;width:160px}.vue-back-to-top .default span{color:#fff}.vue-back-to-top--is-footer{bottom:50%!important;position:absolute;transform:translateY(50%)}
+.light-edition .title,.light-edition .title a, .light-edition .card-title, .light-edition .card-title a, .light-edition .info-title, .light-edition .info-title a, .light-edition .footer-brand, .light-edition .footer-brand a, .light-edition .footer-big h5, .light-edition .footer-big h5 a, .light-edition .footer-big h4, .light-edition .footer-big h4 a, .light-edition .media .media-heading, .light-edition .media .media-heading a {
+    color: #333 !important;
+    text-decoration: none;
+}
+.light-edition .description, .card-description, .footer-big p {
+    color: #333 !important;
+}
+.light-edition .bar .bar-item {
+    background: #555 !important;
+}
+.light-edition i {
+    color: #555 !important;
+}
+.light-edition a.ali:before {
+    background: #555 !important;
+}
+.light-edition .footer ul li a,.light-edition .footer .copyright {
+    color: #212529 !important;
+}
+.light-edition .card .card-category:not([class*=text-]) {
+    color: #000 !important;
+}
+.light-edition span.number-blj {
+    color: #212529 !important;
+}
+.light-edition h4.card-category.h4 {
+    color: #feab3a !important;
+}
 /*# sourceMappingURL=app.589743f8e33d918eb39b386c71bd8f73.css.map */
