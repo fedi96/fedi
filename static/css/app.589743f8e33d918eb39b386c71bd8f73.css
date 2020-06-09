@@ -3,6 +3,7 @@
     color: #333 !important;
     text-decoration: none;
 }
+.light-edition .card.card-profile{background:url(/static/img/brandi-redd-aJTiW00qqtI-unsplash.jpg) 50% no-repeat;}
 .light-edition .description, .card-description, .footer-big p {
     color: #333 !important;
 }
